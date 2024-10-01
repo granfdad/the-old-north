@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Old North",
+    "description": "The Old North is the granfdad attempt™ at a quintessential vanilla experience. Subtle tweaks are included to smooth out the Bethesda jank and enhance the game's strengths. Upscaled textures, improved NPCs, and more tactical combat come together to create vanilla Skyrim as you remember it being.",
+    "author": "granfdad",
+    "maintainers": [
+      "github/granfdad"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "vanilla plus",
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/granfdad/the-old-north/refs/heads/main/Art.png",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/121712",
+      "download": "https://authored-files.wabbajack.org/The%20Old%20North.wabbajack_3120f33a-8a2b-4f18-af5b-64e41ec16719",
+      "machineURL": "theoldnorth",
+      "discordURL": "https://discord.gg/xRrHRsb5e9"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "c4v6Cu939yU=",
+      "Size": 265982247,
+      "NumberOfArchives": 342,
+      "SizeOfArchives": 51738120303,
+      "NumberOfInstalledFiles": 62711,
+      "SizeOfInstalledFiles": 81179034972
+    },
+    "version": "1.0"
+  }
+]
