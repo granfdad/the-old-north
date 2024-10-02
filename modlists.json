@@ -1,36 +1,39 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Old North",
-    "description": "The Old North is the granfdad attempt™ at a quintessential vanilla experience. Subtle tweaks are included to smooth out the Bethesda jank and enhance the game's strengths. Upscaled textures, improved NPCs, and more tactical combat come together to create vanilla Skyrim as you remember it being.",
+    "description": "The Old North is the granfdad attempt\u2122 at a quintessential vanilla experience. Subtle tweaks are included to smooth out the Bethesda jank and enhance the game\u0027s strengths. Upscaled textures, improved NPCs, and more tactical combat come together to create vanilla Skyrim as you remember it being.",
     "author": "granfdad",
     "maintainers": [
       "github/granfdad"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "vanilla plus"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/granfdad/the-old-north/refs/heads/main/Art.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/121712",
-      "download": "https://authored-files.wabbajack.org/The%20Old%20North.wabbajack_3120f33a-8a2b-4f18-af5b-64e41ec16719",
+      "download": "https://authored-files.wabbajack.org/The Old North.wabbajack_76ef386c-f1e3-4869-9879-8332e7563030",
       "machineURL": "theoldnorth",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "c4v6Cu939yU=",
-      "Size": 265982247,
+      "Hash": "lnMcqHX8s3w=",
+      "Size": 265982401,
       "NumberOfArchives": 342,
       "SizeOfArchives": 51738120303,
-      "NumberOfInstalledFiles": 62711,
-      "SizeOfInstalledFiles": 81179034972
+      "NumberOfInstalledFiles": 62712,
+      "SizeOfInstalledFiles": 81179035507
     },
-    "version": "1.0"
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-10-02T08:51:17.7111505Z",
+    "repositoryName": ""
   }
 ]
