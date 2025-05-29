@@ -1,7 +1,7 @@
 [
   {
     "title": "The Old North",
-    "description": "The Old North is vanilla Skyrim, perfected. Just under 300 mods have been chosen to polish the BGS jankiness and focus on the game's strengths. Upscaled textures, improved NPCs, and more tactical combat come together to create the ultimate vanilla plus experience.",
+    "description": "The Old North is vanilla Skyrim, perfected. Just under 300 mods have been chosen to polish the BGS jankiness and focus on the game\u0027s strengths. Upscaled textures, improved NPCs, and more tactical combat come together to create the ultimate vanilla plus experience.",
     "author": "granfdad",
     "maintainers": [
       "github/granfdad"
@@ -9,10 +9,9 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-    "SFW",
-    "Steam",
-    "Vanilla+"
-
+      "SFW",
+      "Steam",
+      "Vanilla\u002B"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -22,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/granfdad/the-old-north/refs/heads/main/theoldnorthbanner.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/121712",
-      "download": "https://authored-files.wabbajack.org/The Old North.wabbajack_53f9200e-a8fc-4f2a-9b0a-574a9f4bfea8",
+      "download": "https://authored-files.wabbajack.org/The Old North.wabbajack_0720887e-f53b-4a8f-a3a0-7e8cacec3cda",
       "machineURL": "theoldnorth",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "L76T3+XaSNY=",
-      "Size": 21367888,
-      "NumberOfArchives": 404,
-      "SizeOfArchives": 48808788845,
-      "NumberOfInstalledFiles": 45481,
-      "SizeOfInstalledFiles": 61639910090,
-      "TotalSize": 110448698935
+      "Hash": "Fre4qN0Z6f0=",
+      "Size": 21368334,
+      "NumberOfArchives": 403,
+      "SizeOfArchives": 48808769738,
+      "NumberOfInstalledFiles": 45471,
+      "SizeOfInstalledFiles": 61639884355,
+      "TotalSize": 110448654093
     },
-    "version": "2.0",
+    "version": "2.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-29T02:14:30.9694379Z",
+    "dateUpdated": "2025-05-29T08:49:59.7193158Z",
     "repositoryName": ""
   }
 ]
