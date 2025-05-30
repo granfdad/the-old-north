@@ -21,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/granfdad/the-old-north/refs/heads/main/theoldnorthbanner.png",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/121712",
-      "download": "https://authored-files.wabbajack.org/The Old North.wabbajack_4f8ed098-9012-4499-b600-ee4523ab222a",
+      "download": "https://authored-files.wabbajack.org/The Old North.wabbajack_40fd0762-33cf-4ab0-8b6a-a1a42039551c",
       "machineURL": "theoldnorth",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "U1OOe1HR6dM=",
-      "Size": 21392419,
-      "NumberOfArchives": 404,
-      "SizeOfArchives": 48809001860,
-      "NumberOfInstalledFiles": 45473,
-      "SizeOfInstalledFiles": 61640381095,
-      "TotalSize": 110449382955
+      "Hash": "j3dkid/1/Vs=",
+      "Size": 21394318,
+      "NumberOfArchives": 405,
+      "SizeOfArchives": 48809039695,
+      "NumberOfInstalledFiles": 45477,
+      "SizeOfInstalledFiles": 61640699323,
+      "TotalSize": 110449739018
     },
     "version": "2.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-30T11:40:05.6888488Z",
+    "dateUpdated": "2025-05-30T13:48:58.8108513Z",
     "repositoryName": ""
   }
 ]
